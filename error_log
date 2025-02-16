@@ -1,0 +1,14 @@
+[01-Jun-2024 11:02:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'khotainguyen247'@'localhost' (using password: YES) in /home/rdaccsie/public_html/libs/db.php on line 0
+[01-Jun-2024 18:03:36 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:37 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:38 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:39 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:39 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:40 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:51 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:51 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:03:57 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:04:14 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:04:15 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:21:07 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
+[01-Jun-2024 18:21:15 Asia/Ho_Chi_Minh] PHP Warning:  sprintf() expects at least 1 parameter, 0 given in /home/rdaccsie/public_html/libs/helper.php on line 226
